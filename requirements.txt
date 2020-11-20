@@ -9,7 +9,6 @@ flake8
 importlib-metadata
 importlib_metadata
 iniconfig
-libcxx
 libedit
 libffi
 mccabe
